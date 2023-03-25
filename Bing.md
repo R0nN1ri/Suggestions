@@ -30,4 +30,4 @@ The get_similarity function calculates the similarity between two strings by con
 
 
 # contact me
-for anything. you can contact me via [mail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Bing+AI+improvement&to=ronniricontect@gmail.com)
+for anything. you can contact me via <ins> **[mail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Bing%20AI%20Feedback&Code&to=ronniri2010@gmail.com&body=)**. </ins>
