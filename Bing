@@ -1,6 +1,6 @@
 Bing, Hi!
-The Bing Chat can create images based on user requests.
-It uses a keyword detection system to identify when the user wants to draw something.
+
+Use a keyword detection system to identify when the user wants to draw something.
 For example, if the user says “draw me a cat”, the keyword is “draw” and the image content is “a cat”.
 The Bing Chat then uses an image generation model to produce a picture of a cat and display it in the chat.
 The image generation model is trained on a large dataset of images and captions, and can create realistic and diverse images for different requests.
