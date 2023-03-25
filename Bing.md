@@ -27,3 +27,7 @@ print(detected_buzz_words)
 The detect_buzz_words function works by looping through each buzzword and checking if it appears in the sentence. To do this, it uses the get_similarity function to calculate the similarity between each word in the sentence and the current buzzword. If the similarity is greater than 0.7, the buzzword is considered to be detected and is added to the list of detected buzzwords.
 
 The get_similarity function calculates the similarity between two strings by converting them to vectors using the text_to_vector function and then calculating the cosine similarity between the vectors using the get_cosine function.
+
+
+# contact me
+for anything. you can contact me via [mail](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&su=Bing+AI+improvement&to=ronniricontect@gmail.com)
